@@ -7,7 +7,7 @@ The following packages are needed:
 * NLTK
 
 ### Training
-Training the RNNSearch on English-French translation datasets as follows:
+Training the RNNSearch on French-English translation datasets as follows:
 ```
 python train.py \
 --src_vocab corpus/frr.voc3.pkl --trg_vocab corpus/een.voc3.pkl \
